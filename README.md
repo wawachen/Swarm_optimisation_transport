@@ -1,4 +1,12 @@
-# RL_transport_3D
+# Swarm optimisation transport
+[Jingyu Chen](https://www.researchgate.net/profile/Jingyu-Chen-20) <br>
+The University of Sheffield <br>
+
+This is the official code for the paper ** Behavioural Swarm Optimisation for Stable Slung-Load Aerial Transportation ** <br>
+
+[Project website]() | [Paper](https://ieeexplore.ieee.org/document/10254023)
+
+## RL_transport_3D
 new data is stored in flock_analysis and transport_analysis
 
 ## Searching and coverage
